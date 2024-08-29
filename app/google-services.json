@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "813116763691",
+    "project_id": "latihansoall",
+    "storage_bucket": "latihansoall.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813116763691:android:6f034a96618280ce2d446e",
+        "android_client_info": {
+          "package_name": "com.fiqsky.latihansoall"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcM180AigqByFSEb0eqEdsGpMEIUX6EDQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
